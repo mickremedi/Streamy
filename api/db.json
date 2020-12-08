@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Here's my first stream!",
+      "description": "I feel so streamy!!",
+      "userId": "111320154460382211997",
+      "id": 1
+    },
+    {
+      "title": "MUAHAHA I'm A FAKE STREAM!",
+      "description": "BEWARE MY FAKENESS!!",
+      "userId": "111320154460982211997",
+      "id": 2
+    },
+    {
+      "title": "Here's my second stream!",
+      "description": "I feel extra streamy!!",
+      "userId": "111320154460382211997",
+      "id": 3
+    },
+    {
+      "title": "HOW DARE YOU MAKE A FAKE STREAM!",
+      "description": "TRUST ME I AM TOTALLY REAL!!",
+      "userId": "111320138460382211997",
+      "id": 4
+    },
+    {
+      "title": "Why are there so many fake streams here??",
+      "description": "I'm just trying to watch streamy over here...",
+      "userId": "111320138461382211997",
+      "id": 5
+    }
+  ]
+}
